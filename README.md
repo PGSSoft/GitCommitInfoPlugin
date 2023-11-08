@@ -1,6 +1,5 @@
 # GitCommitInfoPlugin
 ![Example](Assets/example.png)
-## Summary
 
 GitCommitInfoPlugin is a simple to use Swift package build plugin that allows you to display basic information from the last git commit. You can use it to prepare info view about current commit for QA team or prepare what's new view based on the commit message.
 
